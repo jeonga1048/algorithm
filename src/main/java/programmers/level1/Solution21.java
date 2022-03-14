@@ -20,12 +20,4 @@ public class Solution21 {
         }
         return answer.toString();
     }
-
-// 다른 풀이
-//    public String findKim(String[] seoul){
-//        람다식을 이용해 푸는법
-//        int x = Arrays.asList(seoul).indexOf("Kim");
-//
-//        return "김서방은 "+ x + "에 있다";
-//    }
 }
